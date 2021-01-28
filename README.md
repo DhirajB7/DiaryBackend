@@ -1,6 +1,6 @@
 # UNDER CONSTRUCTION
 
-# UNDER CONSTRUCTION - DIARY APP
+## UNDER CONSTRUCTION - DIARY APP
 
 How to start the Diary application
 ---
